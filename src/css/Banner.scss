@@ -1,0 +1,14 @@
+$color-background: #F6F6F6;
+$color-moradauno: #7E288B;
+$color-backCard: #FFFFFF;
+$font-all: Greycliff_r, sans-serif;
+
+.banner {
+    width: 100%;
+    height: 113px;
+    background: $color-backCard;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
