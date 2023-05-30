@@ -19,6 +19,7 @@ Cada fotografia se muestra con su numero de folio, fecha y hora en la que se sub
 
 La app se implemento con ReactJS, utilizando firebase para almacenar la data y SASS para parte del diseño.
 
+
 ## VISUALIZACIÓN
 
 ### Inicio de sesión:
@@ -50,7 +51,8 @@ La app se implemento con ReactJS, utilizando firebase para almacenar la data y S
 ### Link a la app:
 https://morada-uno-012022.web.app/down-imgs
 ### Accesos
-* correo Asesor: inquilino@morada1.com
-
+* correo inquilino: inquilino@morada1.com
 * contraseña: 123456
 
+* correo asesor: asesor@morada1.com
+* contraseña: 123456
